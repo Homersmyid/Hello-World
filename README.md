@@ -1,2 +1,2 @@
 # Hello-World
-The world is said hello to
+You say goodbye, and I say hello
